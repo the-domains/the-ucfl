@@ -1,19 +1,19 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-29T02:34:45.896Z'
-dateModified: '2016-07-29T02:34:36.151Z'
+datePublished: '2016-07-29T02:51:17.253Z'
+dateModified: '2016-07-29T02:44:44.706Z'
 title: ''
 author: []
 via: {}
 sourcePath: _posts/2016-07-29-plan-description.md
 authors: []
 publisher: {}
-starred: false
+starred: true
 url: plan-description/index.html
 _type: Article
 
