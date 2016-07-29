@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The UCFL]]></title>
-        <description><![CDATA[The UCFL]]></description>
+        <title><![CDATA[United Charity Football League]]></title>
+        <description><![CDATA[United Charity Football League]]></description>
         <link>https://thegrid.ai/the-ucfl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jul 2016 02:02:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2016 02:14:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-ucfl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Plan Description </p>]]></description>
             <link>https://thegrid.ai/the-ucfl/plan-description/index.html</link>
             <guid isPermaLink="false">49661cfe-fe4b-45a0-9ad0-165f6780d875</guid>
-            <pubDate>Fri, 29 Jul 2016 02:02:25 GMT</pubDate>
+            <pubDate>Fri, 29 Jul 2016 02:14:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
