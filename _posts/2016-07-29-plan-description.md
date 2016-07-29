@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-29T02:51:17.253Z'
-dateModified: '2016-07-29T02:44:44.706Z'
+datePublished: '2016-07-29T02:55:55.740Z'
+dateModified: '2016-07-29T02:55:39.648Z'
 title: ''
 author: []
 via: {}
@@ -18,4 +18,4 @@ url: plan-description/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2339f1a3-0315-4d38-b074-424e998903fb.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4af6d28e-37b3-46c2-9ac6-4d4f603f20a8.png)
