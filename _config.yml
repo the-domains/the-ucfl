@@ -1,7 +1,7 @@
 name: The UCFL
 favicon: null
-layout_spectrum: 0.5953799348790199
-typography_spectrum: 0.688036238308996
+layout_spectrum: 0.24663
+typography_spectrum: 0.98862
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.41785954567603767
+    - '#00912b'
+    - '#001327'
+    - '#ffffff'
+    - '#cfd1df'
+    - '#6d6f7d'
+  brandStrength: 1
   lightness: 0.9649322903715074
   saturation: 0.6233386492822319
   rhythmicContrast: 0.027821285650134087
